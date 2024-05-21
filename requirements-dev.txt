@@ -9,3 +9,4 @@ adal~=1.2.4
 configparser~=5.0.2
 black
 pylint
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
